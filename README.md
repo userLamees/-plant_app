@@ -1,3 +1,4 @@
+
 # Plant App (UI Only)
 This is a very simple Flutter app that shows a few screens related to indoor plants. It includes some buttons just for basic navigation between pages. The app does not include any real functionality like saving data or using a shopping cart.
 
@@ -20,6 +21,4 @@ This is a very simple Flutter app that shows a few screens related to indoor pla
 1. Flutter
 2. Dart
 3. Local images and static data
-
-
 
